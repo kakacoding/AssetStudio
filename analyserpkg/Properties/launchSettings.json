@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "analyserpkg": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\GitHub\\AssetStudio\\com.xd.cfbmf\\files\\mf"
+    }
+  }
+}
